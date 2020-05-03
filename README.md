@@ -1,2 +1,0 @@
-# WeatherForecast
-Created with CodeSandbox
